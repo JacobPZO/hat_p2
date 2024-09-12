@@ -295,11 +295,11 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   id: 0
-  moveSpeed: 1
-  jumpForce: 1
+  moveSpeed: 5
+  jumpForce: 5
   hatObject: {fileID: 5311445932607847249}
   curHatTime: 0
-  rig: {fileID: 0}
+  rig: {fileID: 981487309004228082}
 --- !u!1 &4574035129358811910
 GameObject:
   m_ObjectHideFlags: 0
